@@ -1,8 +1,8 @@
-This is my #Flipr Backend Task, i.e., E-Commerce Website that contains components:
-**1. Authentication
+This is my Flipr Backend Task, i.e., E-Commerce Website that contains components:
+1. Authentication
 2. Product Management
 3. Cart Management
-4. Order Management**
+4. Order Management
 
 I implmeneted using Java Spring Boot Framework and for security constraints, I use Spring Security and for storage I use MySQL.
 **For database configuration:**
