@@ -85,7 +85,7 @@ To run this project, I use PostMan:
 
 
 4. For Order Management
-  1. Place Order
+     1. Place Order
         Enter request in postman: localhost:8080/order/placeorder [Use POST METHOD]
         Then write in PARAMS tag:
         cartId: 1
@@ -99,10 +99,10 @@ To run this project, I use PostMan:
            "country": "India",
            "phoneNumber": "123-456-7890"
         }
- 2. Get All Orders
+    2. Get All Orders
         Enter request in postman: localhost:8080/order/getallorders [Use GET METHOD]
         Remember to write admin crediantals. i.e., username=admin and password=admin123 [USE Basic Auth]
- 3. Get Orders By Customer Id
+    3. Get Orders By Customer Id
         Enter request in postman: localhost:8080/order/orders/customer/{customerId} [Use GET METHOD]
 
 So, That's all about the project.
